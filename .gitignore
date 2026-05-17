@@ -1,0 +1,9 @@
+# Ignore environment file
+.env
+
+# Ignore everything inside the upload folder
+upload/**
+
+# But keep the folder itself
+# !upload/
+# !upload/.gitkeep
